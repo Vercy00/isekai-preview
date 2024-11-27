@@ -47,11 +47,11 @@ By using Vault, the system ensures that secrets are not hardcoded into the appli
 ### Storage
 Two types of storage are used within the Kubernetes cluster to support the various service needs: Block Storage and Object Storage.
 
-#### Block Storage (RBD)
+#### Block Storage (RBD - Rados Block Device)
 is primarily used for databases like PostgreSQL and MongoDB. It is optimized for low-latency, high-performance data access, supporting frequent data writes and updates.
 
-#### Object Storage (RGW)
-handles unstructured data such as media files, documents, logs, backups, and other files required by the platform. It is designed for large volumes of data that don’t require frequent modifications but need to be stored in a scalable, secure, and durable manner. RGW (Rados Gateway) provides object storage using the S3 API, and it is used by the Storage Service to manage all files within the Isekai platform.
+#### Object Storage (RGW - Rados Gateway)
+handles unstructured data such as media files, documents, logs, backups, and other files required by the platform. It is designed for large volumes of data that don’t require frequent modifications but need to be stored in a scalable, secure, and durable manner. RGW provides object storage using the S3 API, and it is used by the Storage Service to manage all files within the Isekai platform.
 
 ### Caching
 is a critical component for enhancing performance and responsiveness. Redis is used to cache frequently accessed data in memory, reducing the need for repeated database queries. The system ensures that services always retrieve the most recent data by deleting outdated cache objects whenever changes are detected.
