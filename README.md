@@ -18,6 +18,8 @@
 - MongoDB
 - Github
 - Figma
+- Java
+- TypeScript
 
 ## Cluster Architecture Diagram
 
