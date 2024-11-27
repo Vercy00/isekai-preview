@@ -3,23 +3,23 @@
 [Isekai](https://isekai.pl) is a platform that allows you to track and rate the anime you're watching, as well as provides a subtitle database for them.
 
 ## Tech Stack
-- Spring Framework
-- Next.js
-- Keycloak
-- Nginx
-- RabbitMQ
-- Docker
-- Kubernetes/K3s
-- Rook Ceph
-- Vault
-- Zipkin
-- Redis
-- PostgreSQL
-- MongoDB
-- Github
-- Figma
-- Java
-- TypeScript
+- <span style="display:flex;gap:5px;align-items:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" style="width:20px" />Spring Framework</span>
+- <span style="display:flex;gap:5px;align-items:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="width:20px" />Next.js</span>
+- <span style="display:flex;gap:5px;align-items:center;"><img src="./media/logo_of_keycloak.svg" style="width:20px" />Keycloak</span>
+- <span style="display:flex;gap:5px;align-items:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" style="width:20px" />Nginx</span>
+- <span style="display:flex;gap:5px;align-items:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" style="width:20px" />RabbitMQ</span>
+- <span style="display:flex;gap:5px;align-items:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style="width:20px" />Docker</span>
+- <span style="display:flex;gap:5px;align-items:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" style="width:20px" />Kubernetes/K3s</span>
+- <span style="display:flex;gap:5px;align-items:center;"><img src="./media/rook_text.svg" style="width:20px" />Rook Ceph</span>
+- <span style="display:flex;gap:5px;align-items:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vault/vault-original.svg" style="width:20px" />Vault</span>
+- <span style="display:flex;gap:5px;align-items:center;"><img src="./media/zipkin_symbol.svg" style="width:20px" />Zipkin</span>
+- <span style="display:flex;gap:5px;align-items:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" style="width:20px" />Redis</span>
+- <span style="display:flex;gap:5px;align-items:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="width:20px" />PostgreSQL</span>
+- <span style="display:flex;gap:5px;align-items:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" style="width:20px" />MongoDB</span>
+- <span style="display:flex;gap:5px;align-items:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="width:20px" />Github</span>
+- <span style="display:flex;gap:5px;align-items:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" style="width:20px" />Figma</span>
+- <span style="display:flex;gap:5px;align-items:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="width:20px" />Java</span>
+- <span style="display:flex;gap:5px;align-items:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="width:20px" />TypeScript</span>
 
 ## Cluster Architecture Diagram
 
