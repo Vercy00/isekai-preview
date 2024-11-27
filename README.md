@@ -88,4 +88,4 @@ Keycloak handles all aspects of user authentication and authorization. It ensure
 - Tools for managing active user sessions, including the ability to terminate sessions or set timeouts for enhanced security.
 
 ### Server Side Rendering
-Server-Side Rendering (SSR) improves SEO, performance, and user experience by rendering pages on the server instead of the client. This approach allows the portal to deliver fully-formed HTML pages to users instantly, enhancing SEO and reducing load times.
+improves SEO, performance, and user experience by rendering pages on the server instead of the client. This approach allows the portal to deliver fully-formed HTML pages to users instantly, enhancing SEO and reducing load times.
