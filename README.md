@@ -20,6 +20,7 @@
 - <span style="display:flex;gap:5px;align-items:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" style="width:20px" /> Figma</span>
 - <span style="display:flex;gap:5px;align-items:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="width:20px" /> Java</span>
 - <span style="display:flex;gap:5px;align-items:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="width:20px" /> TypeScript</span>
+- <span style="display:flex;gap:5px;align-items:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="width:20px" /> Linux</span>
 
 ## Cluster Architecture Diagram
 
