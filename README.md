@@ -10,7 +10,7 @@
 - <span style="display:flex;gap:5px;align-items:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" style="width:20px" /> RabbitMQ</span>
 - <span style="display:flex;gap:5px;align-items:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style="width:20px" /> Docker</span>
 - <span style="display:flex;gap:5px;align-items:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" style="width:20px" /> Kubernetes/K3s</span>
-- <span style="display:flex;gap:5px;align-items:center;"><img src="./media/rook_text.svg" style="width:20px" /> Rook Ceph</span>
+- <span style="display:flex;gap:5px;align-items:center;"><img src="https://rook.io/images/rook-logo-small.svg" style="width:20px" /> Rook Ceph</span>
 - <span style="display:flex;gap:5px;align-items:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vault/vault-original.svg" style="width:20px" /> Vault</span>
 - <span style="display:flex;gap:5px;align-items:center;"><img src="./media/zipkin_symbol.svg" style="width:20px" /> Zipkin</span>
 - <span style="display:flex;gap:5px;align-items:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" style="width:20px" /> Redis</span>
